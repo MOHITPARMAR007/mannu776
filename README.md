@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mannu776
+- 👋 Hi, I’m @MOHIT_PARMAR_007
 - 👀 I’m interested in software devlopment
 - 🌱 I’m currently learning python
 
